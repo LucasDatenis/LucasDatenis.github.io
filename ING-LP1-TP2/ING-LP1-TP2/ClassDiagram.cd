@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="cAeropuerto" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAhAAAAAAAAABAAAAAAAAAAAAAECAAAAA=</HashCode>
+      <FileName>cAeropuerto.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cAvion" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgEAABJAAgACgAIAAAAAAIIAAAAAEAAQAAAgASAA=</HashCode>
+      <FileName>cAvion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cFecha" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAQAAAAAAAACAAAAAAAAAAAAAAAQAAQAAAAA=</HashCode>
+      <FileName>cFecha.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cListaAviones" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAIAAAAAEIAAAACAAAACAAAAABAAAIA=</HashCode>
+      <FileName>cListaAviones.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cListaPasajeros" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAEAAQAIAAEIAwIAAAAQgAAAAAAAAAAAA=</HashCode>
+      <FileName>cListaPasajeros.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cListaValijas" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAIAAACAAAAAIABAAAgEBAAQ=</HashCode>
+      <FileName>cListaValijas.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cListaVuelos" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAEIAAAAAAAAEAAACAAABAAAA=</HashCode>
+      <FileName>cListaVuelos.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cPasajero" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAQAxAAAAAAAgQAAAAEAEFAAAAQABAAAAAA=</HashCode>
+      <FileName>cPasajero.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cValija" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>cValija.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cVuelo" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAACAAAAAAEgACAAAAAAAAAIAAAEAAQAAQAAEgAAYI=</HashCode>
+      <FileName>cVuelo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="EstadoVuelo" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAAA=</HashCode>
+      <FileName>cVuelo.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
